@@ -1,0 +1,20 @@
+# Ignore node_modules directory (Node.js projects)
+node_modules/
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore log files
+*.log
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+
+# Ignore build directories
+/build/
+dist/
